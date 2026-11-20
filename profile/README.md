@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../../assets/logo.png" alt="Editorial Funesiana" width="220">
+  <img src="https://raw.githubusercontent.com/funesiana/.github/main/assets/logo.png" alt="Editorial Funesiana" width="220">
 </div>
 
 # Editorial Funesiana
